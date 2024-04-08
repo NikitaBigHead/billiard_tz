@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/billiard_tz/static/css/main.f72aea9b.css",
+    "main.js": "/billiard_tz/static/js/main.540b19b6.js",
+    "index.html": "/billiard_tz/index.html",
+    "main.f72aea9b.css.map": "/billiard_tz/static/css/main.f72aea9b.css.map",
+    "main.540b19b6.js.map": "/billiard_tz/static/js/main.540b19b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f72aea9b.css",
+    "static/js/main.540b19b6.js"
+  ]
+}
